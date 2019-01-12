@@ -1,0 +1,11 @@
+name: SpecificTax
+author: SaBone (imaheejae@naver.com)
+main : xyz.bedition.SpecificTax
+version: 1.0.0
+api: [1.0.0]
+
+commands: 
+ tax: 
+  usage: /tax [플레이어]
+  description: 세금 명령어 입니다.
+  default: default
